@@ -102,7 +102,25 @@ These attributes guide the development process to ensure the Chatbot meets criti
 
 ## System Demonstration
 
-(to be filled)
+(1 Admin panel:
+In this section, I provide a detailed account of the system demonstration conducted for the interface designed to manage colleges and majors within the Deanship of Admission and Registration at D.E.I. University. The demonstration encompassed key aspects, including implementation details, challenges encountered during implementation, snapshots of the user interface, and a comprehensive description of the user interface.
+2 Implementation details:
+The demonstration commenced with a comprehensive overview of the interface's implementation details, as follows:
+2.1 Access and Authentication
+	The demonstration illustrated the secure login process for authorized users.
+	The importance of authentication in ensuring secure access was emphasized.
+
+2.2	Major Management
+	Adding new majors within a college was demonstrated, highlighting major-specific details.
+	The process of amending major information was shown, ensuring immediate updates.
+	Deleting majors was presented, with confirmation mechanisms to prevent inadvertent data loss.
+
+3	Implementation Issues:
+The demonstration acknowledged and discussed certain implementation challenges that were encountered during the development of the interface. These challenges were effectively addressed and resolved, underscoring the significance of ongoing maintenance and updates.
+
+4	Snapshots and UI Description:
+
+	Login: This page is the first page to be shown when accessing the site)
 
 ## Testing
 
