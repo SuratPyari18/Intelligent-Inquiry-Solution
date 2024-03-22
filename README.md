@@ -52,31 +52,53 @@ These attributes guide the development process to ensure the Chatbot meets criti
 
 ## System Requirements
 
-###Functional Requirements:
 
-Clear information about Admission policy
-Detailed information about university colleges
-Detailed information about colleges’ programs and majors
-Clarification of permitted secondary school branches and minimum CPAs
-Duration of study and parallel study policy for each major
-Graduation plans and placement tests information
-First installment costs and credit hour prices for each major
-###Non-Functional Requirements:
 
-Handling multiple user inputs without long wait times
-Delayed responses to simulate human interaction
-Appropriate and tuned data set for accurate responses
-Data training focused on Admission and Registration deanship content
-Prevention of abusive language
-Ability to extend the project to include all colleges
+### Functional Requirements
 
-## Technology Stack
+1. Clear information about Admission policy
+2. Detailed information about university colleges
+3. Detailed information about colleges’ programs and majors
+4. Clarification of permitted secondary school branches and minimum CPAs
+5. Duration of study and parallel study policy for each major
+6. Graduation plans and placement tests information
+7. First installment costs and credit hour prices for each major
 
-(to be filled)
+### Non-Functional Requirements
 
-## Models and Interfaces
+1. Handling multiple user inputs without long wait times
+2. Delayed responses to simulate human interaction
+3. Appropriate and tuned data set for accurate responses
+4. Data training focused on Admission and Registration deanship content
+5. Prevention of abusive language
+6. Ability to extend the project to include all colleges
 
-(to be filled)
+
+##
+
+## Models and interfaces
+
+1. Natural Language Processing (NLP) Model:
+   - Selection of NLP framework (e.g., Haystack)
+   - Use of pre-trained language models (e.g., Lamini)
+   - Fine-tuning approach for model training
+   - Handling multilingual support, initially focusing on English and Hindi
+
+2. User Interfaces:
+   - Website Integration
+
+3. Voice Interface (Optional):
+   - Potential consideration for future phases to enhance accessibility
+
+4. Data Integration:
+   - Integration with university databases for accurate information retrieval
+
+5. User Authentication (Optional):
+   - Potential implementation for personalized responses and secure data handling
+
+6. Multilingual Support:
+   - Designed to support multiple languages for broader user accessibility
+
 
 ## System Demonstration
 
