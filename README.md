@@ -1,28 +1,5 @@
 # Intelligent Inquiry Solution
 
-## Content List
-
-- [Problem Statement](#problem-statement)
-- [Objectives](#objectives)
-- [Scope](#scope)
-- [Abstract](#abstract)
-- [Introduction](#introduction)
-- [Need of Solution](#need-of-solution)
-- [User Groups](#user-groups)
-- [Attributes](#attributes)
-- [System Requirements](#system-requirements)
-- [Technology Stack](#technology-stack)
-- [Models and Interfaces](#models-and-interfaces)
-- [System Demonstration](#system-demonstration)
-- [Testing](#testing)
-- [Conclusion](#conclusion)
-  - [Challenges](#challenges)
-  - [Interesting Decision](#interesting-decision)
-  - [Recommendations](#recommendations)
-  - [Future Improvement](#future-improvement)
-
-## Problem Statement
-
 Developing an FAQs Chatbot for Efficient Management of University Admission Inquiries at Dayalbagh Educational Institute.
 
 ## Objectives
@@ -62,11 +39,36 @@ These user groups rely on the FAQs Chatbot to streamline admission inquiries, su
 
 ## Attributes
 
-(to be filled)
+Accurate Information Retrieval
+Prompt Response Time
+Comprehensive Coverage
+Memory Storage
+User-Friendly Interface
+Cost-Effectiveness
+Availability
+Automated Inquiry Handling
+Integration with Existing Systems
+These attributes guide the development process to ensure the Chatbot meets critical user needs, maintains trust, and aligns with admission service standards at DEI.
 
 ## System Requirements
 
-(to be filled)
+###Functional Requirements:
+
+Clear information about Admission policy
+Detailed information about university colleges
+Detailed information about colleges’ programs and majors
+Clarification of permitted secondary school branches and minimum CPAs
+Duration of study and parallel study policy for each major
+Graduation plans and placement tests information
+First installment costs and credit hour prices for each major
+###Non-Functional Requirements:
+
+Handling multiple user inputs without long wait times
+Delayed responses to simulate human interaction
+Appropriate and tuned data set for accurate responses
+Data training focused on Admission and Registration deanship content
+Prevention of abusive language
+Ability to extend the project to include all colleges
 
 ## Technology Stack
 
