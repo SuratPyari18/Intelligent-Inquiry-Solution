@@ -74,7 +74,10 @@ These attributes guide the development process to ensure the Chatbot meets criti
 6. Ability to extend the project to include all colleges
 
 
-##
+## Technology Stack
+
+![WhatsApp Image 2024-03-22 at 21 27 46_a46c2bee](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/7cceea25-e9d1-41cd-b732-161192cc4ecd)
+
 
 ## Models and interfaces
 
