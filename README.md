@@ -151,6 +151,32 @@ The demonstration acknowledged and discussed certain implementation challenges t
 This comprehensive technology stack ensures effective understanding of user queries and provision of accurate responses, reflecting the commitment to a sophisticated chatbot tailored to D.E.I. College's admission process.
 ![WhatsApp Image 2024-03-22 at 21 27 43_8ed0a714](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/645b6d3c-f9b2-41a0-b62d-36fbed55d317)
 
+### Challenges Encountered
+
+During each stage of development, I encountered numerous challenges, some of which took days to solve. The most significant issues I faced were:
+
+ **Language Support and Translation Accuracy**:
+
+Supporting multiple languages, including Hindi, presented a challenge. Ensuring accurate translation and understanding of language nuances was vital for providing meaningful responses.
+
+**Data Collection and Quality**:
+
+Gathering a comprehensive dataset that included accurate and culturally relevant information in Hindi was time-consuming. Maintaining data quality and consistency was crucial for the chatbot's performance.
+
+**Scalability**:
+
+As the user base grew, the chatbot had to handle increased demand. Ensuring the system could scale effectively to accommodate a growing number of users was a technical challenge.
+
+**Data Privacy and Security**:
+
+Handling sensitive admission-related information required strong security measures to protect user data and comply with relevant privacy regulations.
+
+**Knowledge Base Maintenance**:
+
+As the admission process evolved and information changed, maintaining and updating the chatbot's knowledge base was an ongoing challenge.
+
+
+
 ## Testing
 
 (to be filled)
