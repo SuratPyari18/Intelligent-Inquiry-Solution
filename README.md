@@ -129,10 +129,25 @@ The demonstration acknowledged and discussed certain implementation challenges t
 
 ![WhatsApp Image 2024-03-22 at 21 40 14_418130a0](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/f3417ef1-9003-453b-a4c1-1b1c110952c6)
 
-- 	Dashboard: This page will be the first thing that appears to the user when he logs into the site correctly, whether he is an administrator or a viewer.
-
+- **Dashboard**: This page will be the first thing that appears to the user when he logs into the site correctly, whether he is an administrator or a viewer.
   ![WhatsApp Image 2024-03-22 at 21 43 04_a723cb13](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/60059a72-8967-4c01-b5ba-3b107be63dc4)
 
+![WhatsApp Image 2024-03-22 at 21 43 17_11cf19e2](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/4e180218-8b91-440e-ba3e-4c29c8f1ea00)
+
+### Chatbot Implementation Details
+
+1. **Streamlit UI**: User interface developed using Streamlit for intuitive interaction with the chatbot.
+
+2. **Python**: Primary programming language handling data processing, interaction with Streamlit, and integration with Haystack.
+
+3. **Haystack**: Open-source framework simplifying search and question-answering applications, utilized for information retrieval and processing.
+
+4. **Lamini**: Component within Haystack framework responsible for natural language understanding and information retrieval.
+
+5. **QnA FAQ Excel Dataset**: Custom dataset containing FAQs and admission details, serving as the chatbot's knowledge base for accurate responses.
+
+This comprehensive technology stack ensures effective understanding of user queries and provision of accurate responses, reflecting the commitment to a sophisticated chatbot tailored to D.E.I. College's admission process.
+![WhatsApp Image 2024-03-22 at 21 27 43_8ed0a714](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/645b6d3c-f9b2-41a0-b62d-36fbed55d317)
 
 ## Testing
 
