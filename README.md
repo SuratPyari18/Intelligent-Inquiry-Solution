@@ -127,7 +127,7 @@ The demonstration acknowledged and discussed certain implementation challenges t
 
 - **Login**: This page is the first page to be shown when accessing the site.
 
-![WhatsApp Image 2024-03-22 at 21 40 14_418130a0](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/f3417ef1-9003-453b-a4c1-1b1c110952c6)
+   ![WhatsApp Image 2024-03-22 at 21 40 14_418130a0](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/f3417ef1-9003-453b-a4c1-1b1c110952c6)
 
 - **Dashboard**: This page will be the first thing that appears to the user when he logs into the site correctly, whether he is an administrator or a viewer.
 
