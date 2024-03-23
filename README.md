@@ -175,28 +175,41 @@ Handling sensitive admission-related information required strong security measur
 
 As the admission process evolved and information changed, maintaining and updating the chatbot's knowledge base was an ongoing challenge.
 
+### Streamlit UI Description
 
+- **User-Friendly Interface**: Designed with a visually appealing layout for easy interaction.
+- **Chat Box**: Core interface element allowing users to type or speak questions.
+- **Multilingual Support**: Seamless support for English and Hindi.
+- **Search Functionality**: Included for quick access to specific information.
+- **Responsive Design**: Ensures effective functionality across devices.
+- **Help and Documentation**: Dedicated section provides guidance on chatbot usage.
+- **Privacy and Security Information**: Accessible details reassure users about data handling.
 
-## Testing
+### Important Information
 
-(to be filled)
+- When training the bot, it is important to ensure that the structure in the domain file is in the right format or it will fail.
+- Training time is machine dependent.
+- It's okay to delete old models, but it's not recommended.
+
+### Output Screenshot
+![WhatsApp Image 2024-03-23 at 08 20 30_016a6cf7](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/2a876a6d-a3da-48e1-a111-6c78e406aa06)
+![WhatsApp Image 2024-03-23 at 08 20 39_1926cdbb](https://github.com/SuratPyari18/Intelligent-Inquiry-Solution/assets/164517462/b188ea7b-d3e5-41da-bcc9-856571df16ad)
 
 ## Conclusion
 
-(to be filled)
+In the future development and enhancement of the D.E.I. College Admission Chatbot, I anticipate encountering various challenges and making interesting decisions as I continue to refine and optimize this valuable tool. These challenges will be opportunities for growth, and my decisions will shape the chatbot's performance. As I move forward, I can outline some of the key aspects that will be pivotal in the chatbot's evolution:
 
-### Challenges
+### Challenges:
 
-(to be filled)
+- **Multilingual Adaptation**: Addressing the nuances and intricacies of multiple languages, particularly Hindi, will be a challenge. Future efforts will focus on enhancing language support and ensuring precise translations.
+- **User Feedback Integration**: Harnessing user feedback will be a cornerstone of improvement. Future initiatives will center on developing robust mechanisms for collecting, analyzing, and utilizing feedback to enhance the chatbot's performance.
+- **Scalability**: Anticipating the growth in user demand, future considerations will include further scalability to accommodate increasing user loads without compromising response times and quality.
 
-### Interesting Decision
+### Interesting Decisions:
 
-(to be filled)
+- **Continued Model Enhancement**: As technology evolves, I will continue to explore new models and techniques to ensure that my chatbot remains at the forefront of natural language processing capabilities.
+- **Enhanced Multimodal Support**: Embracing and implementing advanced techniques for handling multimodal inputs, such as text, images, and voice, will be an intriguing decision to enrich user interactions.
+- **Adaptive Contextual Learning**: We will delve into developing adaptive learning capabilities, enabling the chatbot to evolve based on user interactions and context.
 
-### Recommendations
-
-(to be filled)
-
-### Future Improvement
-
-(to be filled)
+## Limitations:
+ The chatbot will only answer questions included in the dataset, operating on the principle of vector search to retrieve and respond to inputs. While this approach conserves memory and functions without internet connectivity, it is constrained by the dataset's content and may not address queries outside its scope.
